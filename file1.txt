@@ -3,3 +3,4 @@ second line in remote
 third line in remote
 fourth line in remote
 fifth line in local
+second line in local
